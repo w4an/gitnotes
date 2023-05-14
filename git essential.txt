@@ -1,0 +1,28 @@
+Key benefits
+-------------------------
+Collaboration
+Versioning
+Branching
+
+terminology
+------------------------
+Repository (Local and Remote)
+Commit
+Branch (Local and Remote)
+Merge (Local and Remote)
+
+Git flow
+------------
+git init
+git add <file>
+git commit -m "Commit message"
+git branch <branch-name>
+git checkout <branch-name>
+git merge <branch-name>
+git push
+
+Git platforms
+GitHub, GitLab, Bitbucket, etc.
+
+
+
